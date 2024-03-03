@@ -46,5 +46,5 @@
     <br><br>
     <img src="https://github-contributor-stats.vercel.app/api?username=limsol02">
     <br><br>
-    <img src="./profile-3d-contrib/profile-season-animate.svg">
+ 
 </div>
